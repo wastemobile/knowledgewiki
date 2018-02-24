@@ -27,4 +27,3 @@ title: 'Knowledge Wiki'
 * gitbook mobi \[book\] \[output\]
 
 具體的說，所有內容編輯都是使用編輯器（Gitbook Editor 或 Sublime Text），Gitbook 指令都是編譯與開發流程。
-
